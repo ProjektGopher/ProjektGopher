@@ -38,7 +38,7 @@
 
 ## Blogs and Articles
  - Applying for a job at TailwindUI
- - Why I built x project, and what I learned
+ - Why I built x, how I built it, and what I learned building it
 
 ## Todos
  - Migrate all domains to single registrar
