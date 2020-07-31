@@ -31,11 +31,15 @@
   - mathmaticatile.com (amazon)
   - yamlbuilder.com (amazon)
   - ymlbuilder.com (amazon)
+  - tailpine.com (amazon)
 
 ## Videos
+ - What's in my Grandpa's camera bag(s)
 
 ## Blogs and Articles
  - Applying for a job at TailwindUI
+ - Why I built x project, and what I learned
 
 ## Todos
  - Migrate all domains to single registrar
+ - Get sub to Shift and Forge
